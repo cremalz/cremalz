@@ -38,4 +38,4 @@
  <img width="100%" src='https://capsule-render.vercel.app/api?type=waving&height=100&color=f7e967&animation=fadeIn&section=footer&fontAlignY=50&fontColor=F7E967' >
 
 
-https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=500&color=F7E967&background=19344100&multiline=true&repeat=false&width=435&lines=I%E2%80%99m++a+Computer+Science+student+and+Web+;Development+technician." alt="Typing SVG"
+
