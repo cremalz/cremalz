@@ -1,2 +1,8 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=500&pause=1000&color=F7E967&background=19344100&multiline=true&repeat=false&width=435&lines=Hello%2C+my+name+is+Lorenzo+Crema" alt="Typing SVG" /></a> <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=500&color=F7E967&background=19344100&multiline=true&repeat=false&width=435&lines=I%E2%80%99m++a+Computer+Science+student+and+Web+;Development+technician." alt="Typing SVG" /></a>
-![Anurag's GitHub stats](https://capsule-render.vercel.app/api?type=speech&height=251&color=5c6c7d&text=Hi%20!&animation=fadeIn&section=header&fontAlignY=50&fontColor=F7E967)
+
+<img width="100%" src='https://capsule-render.vercel.app/api?type=waving&height=100&color=f7e967&animation=fadeIn&section=header&fontAlignY=50&fontColor=f7e967' >
+<br>
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=500&pause=1000&color=F7E967&background=19344100&multiline=true&repeat=false&width=435&lines=Hello%2C+my+name+is+Lorenzo+Crema" alt="Typing SVG" /></a> <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=500&color=F7E967&background=19344100&multiline=true&repeat=false&width=435&lines=I%E2%80%99m++a+Computer+Science+student+and+Web+;Development+technician." alt="Typing SVG" /></a>
+
+
+ <img width="100%" src='https://capsule-render.vercel.app/api?type=waving&height=100&color=f7e967&animation=fadeIn&section=footer&fontAlignY=50&fontColor=F7E967' >
