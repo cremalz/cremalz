@@ -1,16 +1,15 @@
-
 <img width="100%" src='https://capsule-render.vercel.app/api?type=waving&height=100&color=f7e967&animation=fadeIn&section=header&fontAlignY=50&fontColor=f7e967' >
 <br>
 
 <div align="center">
-<table >
+<table>
   <tr>
     <td align="left" width="600">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1000&pause=1000&color=F7E967&background=19344100&multiline=true&repeat=false&width=435&lines=Hello%2C+my+name+is+Lorenzo+Crema" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1000&pause=1000&color=F7E967&background=19344100&multiline=true&repeat=false&width=435&lines=Hello%2C+my+name+is+Lorenzo+Crema" />
       </a><br>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1000&color=F7E967&background=19344100&multiline=true&repeat=false&width=435&lines=I%E2%80%99m++a+Computer+Science+student+and+Web+;Development+technician." alt="Typing SVG"" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1000&color=F7E967&background=19344100&multiline=true&repeat=false&width=435&lines=Computer+Science+student+%7C+Web+Developer" />
       </a>
     </td>
     <td align="center" width="300">
@@ -20,26 +19,48 @@
 </table>
 </div>
 
-## Tools and Technologies
-<div style="display: flex; align-items: center; gap: 10px;">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+---
+
+## 🚀 Technologies I Use
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 </div>
 
-## I am learning
-<div style="display: flex; align-items: center; gap: 10px;">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+---
+
+## 📚 Currently Learning
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </div>
 
-## Contacts:
-<div>
-<a href="https://www.instagram.com/lorenzo.crema3"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:lorenzocrematrabalho@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lorenzo-crema-da-silva" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+---
+
+## 🧠 Next Steps (opcional mas MUITO bom)
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 </div>
 
- <img width="100%" src='https://capsule-render.vercel.app/api?type=waving&height=100&color=f7e967&animation=fadeIn&section=footer&fontAlignY=50&fontColor=F7E967' >
+---
 
+## 📫 Contact
+<div align="left">
+<a href="https://www.instagram.com/lorenzo.crema3">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:lorenzocrematrabalho@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/lorenzo-crema-da-silva">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</div>
+
+---
+
+<img width="100%" src='https://capsule-render.vercel.app/api?type=waving&height=100&color=f7e967&animation=fadeIn&section=footer&fontAlignY=50&fontColor=F7E967' >
