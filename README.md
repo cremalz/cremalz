@@ -1,4 +1,4 @@
-<img width="100%" src='https://capsule-render.vercel.app/api?type=waving&height=100&color=f7e967&animation=fadeIn&section=header&fontAlignY=50&fontColor=f7e967' >
+<img width="100%" src='https://capsule-render.vercel.app/api?type=waving&height=100&color=5B876B&animation=fadeIn&section=header&fontAlignY=50&fontColor=5B876B' >
 <br>
 
 <div align="center">
@@ -6,10 +6,10 @@
   <tr>
     <td align="left" width="600">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1000&pause=1000&color=F7E967&background=19344100&multiline=true&repeat=false&width=435&lines=Hello%2C+my+name+is+Lorenzo+Crema" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1000&pause=1000&color=5B876B&background=19344100&multiline=true&repeat=false&width=435&lines=Hello%2C+my+name+is+Lorenzo+Crema" />
       </a><br>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1000&color=F7E967&background=19344100&multiline=true&repeat=false&width=435&lines=Computer+Science+student+%7C+Web+Developer" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=1000&color=5B876B&background=19344100&multiline=true&repeat=false&width=435&lines=Computer+Science+student+%7C+Web+Developer" />
       </a>
     </td>
     <td align="center" width="300">
@@ -63,4 +63,4 @@
 
 ---
 
-<img width="100%" src='https://capsule-render.vercel.app/api?type=waving&height=100&color=f7e967&animation=fadeIn&section=footer&fontAlignY=50&fontColor=F7E967' >
+<img width="100%" src='https://capsule-render.vercel.app/api?type=waving&height=100&color=5B876B&animation=fadeIn&section=footer&fontAlignY=50&fontColor=5B876B' >
